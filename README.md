@@ -38,7 +38,7 @@
 ## About
 Welcome to the YouDotCom Python Library!
 
-This library allows users to easily access and utilize all of the functionality of the You.com platform through a simple and intuitive Python interface. With the library, users can access a variety of You.com apps and services, including but not limited to:
+This library allows users to easily access and utilize all of the functionality of the You.com platform through a simple and intuitive Python interface.  the library, users can access a variety of You.com apps and services, including but not limited to:
 
 * Search
 * YouChat
